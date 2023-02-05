@@ -1,1 +1,1 @@
-web: gunicorn baroque_works.wsgi
+web: gunicorn baroque_works.config.wsgi
