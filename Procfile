@@ -1,1 +1,1 @@
-web: gunicorn baroque_works.wsgi --log-file -
+web: gunicorn baroque_works.wsgi
